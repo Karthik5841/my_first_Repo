@@ -1,3 +1,4 @@
 # my_first_Repo
-
-Deepak gadu edho marchesad roo.
+x =7
+y =3
+x + y = 10
